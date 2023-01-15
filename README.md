@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/OcAEGwk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Github won't display the gif file, click on this link to see it: https://i.imgur.com/OcAEGwk.gif 
 
 GIF created with LICECAP
 
