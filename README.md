@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/rLU7ARg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/rLU7ARg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICECAP
 
