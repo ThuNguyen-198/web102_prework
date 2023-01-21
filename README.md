@@ -17,15 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Added nav bar to navigate to Stats and Our Games Sections
-* [x] Improved UI of the app
+* [x] Added navigation bar to navigate to Stats and Our Games Sections
+* [x] Improved UI of the app (Buttons and colors)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/OcAEGwk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Github won't display the gif file, click on this link to see it: https://i.imgur.com/OcAEGwk.gif 
+<img src='https://i.imgur.com/aIdZYik.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICECAP
 
